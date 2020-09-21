@@ -1,6 +1,11 @@
 # This is demo file
 #Hey this is suraj
+<<<<<<< HEAD
 
 # this is add  and put message in same command
 
 #This is suraj's change
+=======
+# This is Bala's Change
+# this is add  and put message in same command
+>>>>>>> 9e135428cd372a1b9a2dc728b4b53ac59c412c2d
